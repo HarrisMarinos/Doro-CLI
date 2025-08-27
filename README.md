@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/572be224-35b4-4ad0-a925-88f5883e6b6f
 ### Installation
 
 ```
-git clone https://github.com/HarrisMarinos/Doro-CLI.git
+https://github.com/Marootinos/Doro-CLI.git
 ```
 ```
 cd Doro-CLI/
@@ -28,4 +28,5 @@ make && make install
 - Let the User set settings as default
 - Log file that lets User see his activity
 - Automatic Break with a single button
+
 
